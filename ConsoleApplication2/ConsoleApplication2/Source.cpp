@@ -2,6 +2,7 @@
 #include <iostream>
 
 int main(int argc, char* argv[]) {
+	printf("hello colorful world\n");
 	printf("hello grey world\n");
 	getchar();
 }
