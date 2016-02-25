@@ -2,6 +2,6 @@
 #include <iostream>
 
 int main(int argc, char* argv[]) {
-	printf("hello world\n");
+	printf("hello grey world\n");
 	getchar();
 }
